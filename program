@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sudo apt install vlc -y
+sudo apt install libreoffice -y
+sudo snap install --classic code
+sudo apt install python3 -y
+sudo apt install git-all -y
+sudo apt-get install octave -y
+sudo apt-get install octave-control octave-image octave-io octave-optim octave-signal octave-statistics -y
+
